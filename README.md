@@ -6,3 +6,7 @@ to-dos
 - cerealcodes + ping about org email?
 
 - teamscode
+
+- cf 9/1
+
+- cf 8/31
